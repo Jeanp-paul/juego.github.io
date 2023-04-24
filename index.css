@@ -5,7 +5,7 @@ body{
     margin:0;
     padding:0;
     background: steelblue;
-    background-image: url(https://i.ibb.co/BjRnvBm/Galeria-0246-Auto-Rico-1.jpg);
+    background-image: url(https://i.ibb.co/zf2VyHr/download-1.png);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center center;
@@ -13,21 +13,32 @@ body{
     justify-content: center; 
     align-items: center;
     min-height: 100vh;
+    font-size: 400%;
 }
 #encabezado {
-    width: 80vw;
-    min-height: 200px;
+    width: 60vw;
+    min-height: 150px;
     display: flex;
     justify-content: center;
-    background: white;
+    align-items: center;
+    flex-direction: column;
+    background: #9BA4B5;
     border-radius: 10px;
     margin: 10px;
     padding: 10px;
 }
 .opcion {
-    width: 70vw;
-    background: white;
+    width: 60vw;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    background: #9BA4B5;
     border-radius: 10px;
     margin: 10px;
     padding: 10px;
+    cursor: pointer;
+}
+
+.opcion:hover{
+    background: lightgrey;
 }
