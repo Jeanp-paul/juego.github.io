@@ -49,10 +49,26 @@ let baseDePreguntas = [
 },
     {
     pregunta:"¿Que tipo de señal informativa es ?",
-    ayuda:"no son las Toallas ",
-    imagen:"https://i.ibb.co/mTJCZRY/D-NQ-NP-609817-MCO31631282377-072019-O.jpg",
+    ayuda:"No es servicios generales ",
+    imagen:"https://ibb.co/2Km40LP",
     respuesta: "Turisticas",
     distractores: [",Servicios generales","Rutas y destinos","Horizontal",
+]
+},
+    {
+    pregunta:"¿Cual es la ley que nos regula como Conductores,Peatones,Pasajeros ?",
+    ayuda:"No es Ley 1310 DE 2009 ",
+    imagen:"https://ibb.co/ZJYZs4F",
+    respuesta: "Ley 769 DE 2002",
+    distractores: ["Ley 1310 DE 2009","Ley 1397 DE 2010","Ley 1005 DE 2006",
+]
+},
+     {
+    pregunta:"¿Cual es el articulo que nos habla sobre el kit de carreteras ?",
+    ayuda:"No es 03 ",
+    imagen:"",
+    respuesta: "articulo 30",
+    distractores: ["articulo 03","articulo 130","articulo 31",
 ]
 },
 ]
