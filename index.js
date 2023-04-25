@@ -41,11 +41,12 @@ if (validezRespuesta) {
 }
 INDEX_PREGUNTA ++;
 if (INDEX_PREGUNTA >= baseDePreguntas.length){
-    INDEX_PREGUNTA =0;
     await swal.fire({
         title: "Juego terminado",
         text: `Tu puntaje fue de:${puntaje}/${baseDePreguntas.length}`,
     })
+    INDEX_PREGUNTA =0;
+    puntaje = 0
 }
     cargarPregunta(INDEX_PREGUNTA);
 }
