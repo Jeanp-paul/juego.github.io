@@ -47,5 +47,13 @@ let baseDePreguntas = [
     distractores: ["Toalla higienica,condones","medicamentos","todas las anteriores",
 ]
 },
+    {
+    pregunta:"¿Que tipo de señal informativa es ?",
+    ayuda:"no son las Toallas ",
+    imagen:"https://i.ibb.co/mTJCZRY/D-NQ-NP-609817-MCO31631282377-072019-O.jpg",
+    respuesta: "Turisticas",
+    distractores: [",Servicios generales","Rutas y destinos","Horizontal",
+]
+},
 ]
 
