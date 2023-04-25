@@ -16,7 +16,7 @@ let baseDePreguntas = [
 ]
 },
 {
-    pregunta:"¿Si quedamos sobre esta señal regtangular debemos ?",
+    pregunta:"¿Si quedamos sobre esta señal rectangular debemos ?",
     ayuda:"No podemos retroceder",
     imagen:"https://i.ibb.co/Rpf3cyH/20220330-102713627-56b1318dc09f0-r-1454507139905-6-193-695-540-jpeg-982300513.webp",
     respuesta: "Avanzar",
