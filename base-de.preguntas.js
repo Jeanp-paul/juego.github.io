@@ -50,7 +50,7 @@ let baseDePreguntas = [
     {
     pregunta:"¿Que tipo de señal informativa es ?",
     ayuda:"No es servicios generales ",
-    imagen:"https://ibb.co/2Km40LP",
+    imagen:"https://i.ibb.co/h8hzxnH/Whats-App-Image-2023-04-25-at-4-12-36-PM-2.jpg",
     respuesta: "Turisticas",
     distractores: [",Servicios generales","Rutas y destinos","Horizontal",
 ]
@@ -58,7 +58,7 @@ let baseDePreguntas = [
     {
     pregunta:"¿Cual es la ley que nos regula como Conductores,Peatones,Pasajeros ?",
     ayuda:"No es Ley 1310 DE 2009 ",
-    imagen:"https://ibb.co/ZJYZs4F",
+    imagen:"https://i.ibb.co/ZJgHyNJ/Derecho-tributario.jpg",
     respuesta: "Ley 769 DE 2002",
     distractores: ["Ley 1310 DE 2009","Ley 1397 DE 2010","Ley 1005 DE 2006",
 ]
@@ -66,7 +66,7 @@ let baseDePreguntas = [
      {
     pregunta:"¿Cual es el articulo que nos habla sobre el kit de carreteras ?",
     ayuda:"No es 03 ",
-    imagen:"",
+    imagen:"https://i.ibb.co/9vVMXK1/Sin-t-tulo.jpg",
     respuesta: "articulo 30",
     distractores: ["articulo 03","articulo 130","articulo 31",
 ]
