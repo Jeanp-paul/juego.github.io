@@ -41,18 +41,18 @@ let baseDePreguntas = [
 },
 {
     pregunta:"¿Que objetos pertenecen al kit de primeros auxilios?",
-    ayuda:"no son las Toallas ",
+    ayuda:"No son las Toallas ",
     imagen:"https://i.ibb.co/mTJCZRY/D-NQ-NP-609817-MCO31631282377-072019-O.jpg",
     respuesta: "Gasa esteril,tijeras",
-    distractores: ["Toalla higienica,condones","medicamentos","todas las anteriores",
+    distractores: ["Toalla higienica,Condones","Medicamentos","Todas las anteriores",
 ]
 },
     {
     pregunta:"¿Que tipo de señal informativa es ?",
-    ayuda:"No es servicios generales ",
+    ayuda:"No es servicios generales",
     imagen:"https://i.ibb.co/h8hzxnH/Whats-App-Image-2023-04-25-at-4-12-36-PM-2.jpg",
     respuesta: "Turisticas",
-    distractores: [",Servicios generales","Rutas y destinos","Horizontal",
+    distractores: ["Servicios generales","Rutas y destinos","Horizontal",
 ]
 },
     {
@@ -67,8 +67,24 @@ let baseDePreguntas = [
     pregunta:"¿Cual es el articulo que nos habla sobre el kit de carreteras ?",
     ayuda:"No es 03 ",
     imagen:"https://i.ibb.co/9vVMXK1/Sin-t-tulo.jpg",
-    respuesta: "articulo 30",
-    distractores: ["articulo 03","articulo 130","articulo 31",
+    respuesta: "Articulo 30",
+    distractores: ["Articulo 03","Articulo 130","Articulo 31",
+]
+},
+{
+    pregunta:"¿Para que tipo de fuego sirve este extintor tipo A?",
+    ayuda:"",
+    imagen:"https://i.ibb.co/ZhQqqBs/D-NQ-NP-715370-MCO49216120000-022022-O.jpg",
+    respuesta:"Fuegos con combustibles sólidos como madera, cartón, plástico, etc.",
+    distractores: ["Fuegos donde el combustible es líquido como por ejemplo el aceite, la gasolina o la pintura.","Fuegos donde los combustible son gases como el butano, propano o gas ciudad.","Fuegos donde el combustible es un metal: el magnesio, el sodio o el aluminio en polvo.",
+]
+},
+{
+    pregunta:"¿Para que tipo de fuego sirve este extintor tipo D?",
+    ayuda:"",
+    imagen:"https://i.ibb.co/19Vf1GP/EXTINTOR-PARA-FUEGOS-CLASE-D-Ag-Ext-Na-Cl-o-Cu-sp.jpg",
+    respuesta:"Fuegos donde el combustible es un metal: el magnesio, el sodio o el aluminio en polvo.",
+    distractores: ["Fuegos donde el combustible es líquido como por ejemplo el aceite, la gasolina o la pintura.","Fuegos donde los combustible son gases como el butano, propano o gas ciudad.","Fuegos con combustibles sólidos como madera, cartón, plástico, etc.",
 ]
 },
 ]
